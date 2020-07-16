@@ -1,0 +1,1 @@
+This is my Odin project for creating the google homepage using Visual Studio Code and some GIT Commands.
